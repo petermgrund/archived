@@ -1,0 +1,35 @@
+.step-indicator {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .step-indicator li {
+    flex: 1;
+    text-align: center;
+    position: relative;
+    padding: 15px 0;
+  }
+  
+  .step-indicator li::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: lightgray;
+    border-radius: 50%;
+  }
+  
+  .step-indicator li.completed::before {
+    background-color: green;
+  }
+  
+  .step-indicator li.current::before {
+    background-color: blue;
+  }
+  
