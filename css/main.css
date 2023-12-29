@@ -27,3 +27,15 @@ a:active {
   border-radius: 5px;
 }
 
+.tight-spacing p {
+  margin-bottom: 0;
+}
+.tight-spacing ul {
+  margin-top: 0;
+}
+
+h3, h4, h5, h6 {
+  margin-top: 1rem;
+}
+
+

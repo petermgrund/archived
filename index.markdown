@@ -9,16 +9,12 @@ permalink:
 <div class="row"> <!-- Start of the row -->
 
   <main class="col-md-6"> <!-- Half the width -->
-    <h1>Coordinated Reset DBS for Essential Tremor</h1>
-    <p class="fs-5">Join us in transforming care for essential tremor by participating in a new clinical trial through the University of Minnesota.</p>
-    <div class="mb-5">
-        <button type="button" class="btn btn-primary btn-lg">Learn more</button>
-        <button type="button" class="btn btn-secondary btn-lg">For patients</button>
-    </div>
+    <h1>Beyond Reflection</h1>
+    <p class="fs-5">Together, We Can Reframe Self-Perception in Men with BDD</p>
   </main> <!-- End of main content -->
 
   <div class="col-md-6"> <!-- Other half for the image -->
-    <img src="/images/fjolbreytni.png" class="rounded float-left" alt="..." style="width:100%;">
+    <img src="/images/innan_rammans.png" class="rounded float-left" alt="..." style="width:100%;">
   </div>
 
 </div> <!-- End of the row -->
@@ -27,14 +23,14 @@ permalink:
 
 <div class="row g-5">
   <div class="col-md-6">
-    <h2>Learn about the research</h2>
+    <h2>Services</h2>
     <ul class="icon-list ps-0">
       <li class="d-flex align-items-center">
         <div class="text-dark me-2">
           <i class="bi bi-arrow-right-circle-fill"></i>
         </div>
         <div>
-          <a href="#" class="fs-5">Purpose</a>
+          <a href="/traveling/advisories" class="fs-5">Travel advisories</a>
         </div>
       </li>
       <li class="d-flex align-items-center">
@@ -42,29 +38,21 @@ permalink:
           <i class="bi bi-arrow-right-circle-fill"></i>
         </div>
         <div>
-          <a href="#" class="fs-5">Criteria</a>
-        </div>
-      </li>
-      <li class="d-flex align-items-center">
-        <div class="text-dark me-2">
-          <i class="bi bi-arrow-right-circle-fill"></i>
-        </div>
-        <div>
-          <a href="#" class="fs-5">Timeline</a>
+          <a href="/terror_level" class="fs-5">Terror level</a>
         </div>
       </li>
     </ul>
   </div>
 
   <div class="col-md-6">
-      <h2>Learn about tremor and DBS</h2>
+      <h2>HOLD</h2>
           <ul class="icon-list ps-0">
         <li class="d-flex align-items-center">
           <div class="text-dark me-2">
             <i class="bi bi-arrow-right-circle-fill"></i>
           </div>
           <div>
-            <a href="tremor" class="fs-5">Essential tremor</a>
+            <a href="#" class="fs-5">HOLD</a>
           </div>
         </li>
         <li class="d-flex align-items-center">
@@ -72,7 +60,7 @@ permalink:
             <i class="bi bi-arrow-right-circle-fill"></i>
           </div>
           <div>
-            <a href="surgery" class="fs-5">DBS surgery</a>
+            <a href="#" class="fs-5">HOLD</a>
           </div>
         </li>
                 <li class="d-flex align-items-center">
@@ -80,7 +68,7 @@ permalink:
             <i class="bi bi-arrow-right-circle-fill"></i>
           </div>
           <div>
-            <a href="coordinated-reset" class="fs-5">Coordinated reset</a>
+            <a href="#" class="fs-5">HOLD</a>
           </div>
         </li>
       </ul>
